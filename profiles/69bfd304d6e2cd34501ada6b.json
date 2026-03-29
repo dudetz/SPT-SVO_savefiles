@@ -51,19 +51,19 @@
       },
       "Customization": {
         "Head": "62aca6a1310e67685a2fc2e7",
-        "Body": "6894899de4bf255d1b0ca767",
-        "Feet": "660436a810bcdf80ff0e9f78",
-        "Hands": "692a5131a1971499a0327a8a",
+        "Body": "68ac5b17017f18f77c007914",
+        "Feet": "5cc085bb14c02e000e67a5c5",
+        "Hands": "692a5c4299229b622de66d81",
         "DogTag": "68f15ed4edf2ab313f093498",
         "Voice": "690d4eda458927196f0775f8"
       },
       "Health": {
         "Hydration": {
-          "Current": 70,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 61,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -116,7 +116,7 @@
             "Effects": {}
           }
         },
-        "UpdateTime": 1774738844
+        "UpdateTime": 1774791128
       },
       "Inventory": {
         "items": [
@@ -3390,8 +3390,13 @@
           {
             "_id": "69c322151cbd632e9c0f6590",
             "_tpl": "5b40e1525acfc4771e1c6611",
-            "parentId": "69bfd4ead6e2cd34501af6fa",
-            "slotId": "Headwear"
+            "parentId": "5fe49444ae6628187a2e78b8",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 4,
+              "r": "Horizontal"
+            }
           },
           {
             "_id": "69c83064b3be4d1050696c50",
@@ -3530,8 +3535,8 @@
             "parentId": "5fe49444ae6628187a2e78b8",
             "slotId": "hideout",
             "location": {
-              "x": 9,
-              "y": 22,
+              "x": 6,
+              "y": 0,
               "r": "Horizontal"
             }
           },
@@ -10003,7 +10008,7 @@
         "HideoutCounters": null,
         "Seed": "fa3b530ed874aaf4eaf326f6974377fa",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1774740083,
+        "sptUpdateLastRunTimestamp": 1774791260,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -11562,7 +11567,7 @@
       "WishList": {},
       "Variables": {},
       "moneyTransferLimitData": {
-        "nextResetTime": 1754499074,
+        "nextResetTime": 1754844674,
         "remainingLimit": 1000000,
         "totalLimit": 1000000,
         "resetInterval": 86400
@@ -16148,10 +16153,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c322151cbd632e9c0f6582",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "23.03.2026",
@@ -16168,10 +16170,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c322151cbd632e9c0f6586",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 345600,
           "systemData": {
             "date": "23.03.2026",
@@ -17130,6 +17129,16 @@
     },
     {
       "id": "68bc34d0d5e8d55c7d0d5235",
+      "source": "unlockedInGame",
+      "type": "suite"
+    },
+    {
+      "id": "68be8b9c6b0736bebc012ad1",
+      "source": "unlockedInGame",
+      "type": "suite"
+    },
+    {
+      "id": "5df8e72186f7741263108806",
       "source": "unlockedInGame",
       "type": "suite"
     }
