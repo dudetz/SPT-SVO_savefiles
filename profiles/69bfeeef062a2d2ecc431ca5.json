@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1774897337
+        "UpdateTime": 1774958486
       },
       "Inventory": {
         "items": [
@@ -13087,7 +13087,7 @@
         "HideoutCounters": null,
         "Seed": "70667c1f5178b32ca28ba754214af52f",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1774899929,
+        "sptUpdateLastRunTimestamp": 1774964238,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -13959,51 +13959,6 @@
           "availableAfter": 0
         },
         {
-          "qid": "69c8458e075d5537fc073c7c",
-          "startTime": 1774735839,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774732685.9729998,
-            "2": 1774735839
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c8458e075d5537fc073c89",
-          "startTime": 1774735850,
-          "status": 4,
-          "statusTimers": {
-            "1": 1774732685.9729998,
-            "2": 1774735850,
-            "4": 1774735935
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c8458e075d5537fc073c94",
-          "startTime": 1774735953,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774732685.9729998,
-            "2": 1774735953
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c8458e075d5537fc073c7c",
-          "startTime": 1774735839,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774732685.9729998,
-            "2": 1774735839
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
           "qid": "63ab180c87413d64ae0ac20a",
           "startTime": 1774735841,
           "status": 2,
@@ -14014,34 +13969,11 @@
           "availableAfter": 0
         },
         {
-          "qid": "69c8458e075d5537fc073c89",
-          "startTime": 1774735850,
-          "status": 4,
-          "statusTimers": {
-            "1": 1774732685.9729998,
-            "2": 1774735850,
-            "4": 1774735935
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
           "qid": "6834202a186efa3c5b07f9a2",
           "startTime": 1774735946,
           "status": 2,
           "statusTimers": {
             "2": 1774735946
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c8458e075d5537fc073c94",
-          "startTime": 1774735953,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774732685.9729998,
-            "2": 1774735953
           },
           "completedConditions": [],
           "availableAfter": 0
@@ -17229,10 +17161,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c851d3075d5537fc0a7f33",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -17631,10 +17560,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c851db075d5537fc0a7f3b",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -17886,10 +17812,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c8523f075d5537fc0a8ed2",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -18001,10 +17924,7 @@
           "text": "You have received a gift from Passos",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18015,10 +17935,7 @@
           "text": "You have received a gift from BigBoss",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18029,10 +17946,7 @@
           "text": "You have received a gift from BigBoss",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18043,10 +17957,7 @@
           "text": "You have received a gift from BigBoss",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18057,10 +17968,7 @@
           "text": "You have received a gift from Passos",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18071,10 +17979,7 @@
           "text": "You have received a gift from Passos",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18085,10 +17990,7 @@
           "text": "You have received a gift from Passos",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18099,10 +18001,7 @@
           "text": "You have received a gift from Vodochka",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18113,10 +18012,7 @@
           "text": "You have received a gift from Vodochka",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18127,10 +18023,7 @@
           "text": "You have received a gift from Vodochka",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18141,10 +18034,7 @@
           "text": "You have received a gift from Vodochka",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18155,10 +18045,7 @@
           "text": "You have received a gift from BigBoss",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -18386,10 +18273,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c85247075d5537fc0a8eee",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 172800
         },
         {
@@ -18611,10 +18495,7 @@
           "text": "",
           "hasRewards": false,
           "rewardCollected": true,
-          "items": {
-            "stash": "69c1a985fae7a80dfc64bae0",
-            "data": []
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -19235,6 +19116,12 @@
         "version": "1.0.0",
         "author": "devonjerothe",
         "dateAdded": 1774892783
+      },
+      {
+        "name": "Bright Lasers",
+        "version": "2.0.0",
+        "author": "acidphantasm",
+        "dateAdded": 1774958486
       }
     ],
     "receivedGifts": [
@@ -19271,12 +19158,7 @@
     "58330581ace78e27b8b10cee": {},
     "5935c25fb3acc3127c3d8cd9": {},
     "5a7c2eca46aef81a7ca2145d": {},
-    "6617beeaa9cfa777ca915b7c": {
-      "68a58a64b20845b9d00bbfdc": {
-        "count": 1,
-        "purchaseTimestamp": 1774897986
-      }
-    },
+    "6617beeaa9cfa777ca915b7c": {},
     "54cb57776803fa99248b456e": {},
     "54cb50c76803fa8b248b4571": {},
     "5ac3b934156ae10c4430e83c": {}
