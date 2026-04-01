@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 40,
+          "Current": 100,
           "Maximum": 100
         },
         "Energy": {
-          "Current": 73,
+          "Current": 100,
           "Maximum": 100
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1775071034
+        "UpdateTime": 1775078672
       },
       "Inventory": {
         "items": [
@@ -13148,7 +13148,7 @@
         "HideoutCounters": null,
         "Seed": "a3d140addd95fefef7ccbfa9c583eca6",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1775074138,
+        "sptUpdateLastRunTimestamp": 1775080530,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -13823,21 +13823,6 @@
           "availableAfter": 0
         },
         {
-          "qid": "69c2ecadb929e55024ff0c9f",
-          "startTime": 1774647852,
-          "status": 4,
-          "statusTimers": {
-            "1": 1774382299.918,
-            "2": 1774647852,
-            "3": 1774783358.245,
-            "4": 1774783690
-          },
-          "completedConditions": [
-            "69c2ecadb929e55024ff0ca3"
-          ],
-          "availableAfter": 0
-        },
-        {
           "qid": "5d25b6be86f77444001e1b89",
           "startTime": 0,
           "status": 4,
@@ -13942,17 +13927,6 @@
           "completedConditions": [
             "5b0e766b86f7746bfa618964"
           ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69c2ecadb929e55024ff0c9f",
-          "startTime": 1774647852,
-          "status": 2,
-          "statusTimers": {
-            "1": 1774382299.918,
-            "2": 1774647852
-          },
-          "completedConditions": [],
           "availableAfter": 0
         },
         {
@@ -14137,36 +14111,6 @@
           "completedConditions": [
             "596a10af33f77420d232804c"
           ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69caab91567bac1bac1df5aa",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1774890632.1039999
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69caab91567bac1bac1df5b7",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1774890632.105
-          },
-          "completedConditions": [],
-          "availableAfter": 0
-        },
-        {
-          "qid": "69caab91567bac1bac1df5c3",
-          "startTime": 0,
-          "status": 1,
-          "statusTimers": {
-            "1": 1774890632.105
-          },
-          "completedConditions": [],
           "availableAfter": 0
         },
         {
