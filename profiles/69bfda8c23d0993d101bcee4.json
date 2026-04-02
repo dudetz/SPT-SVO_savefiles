@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1775078672
+        "UpdateTime": 1775143405
       },
       "Inventory": {
         "items": [
@@ -11829,12 +11829,6 @@
           "value": 7,
           "sourceId": "5bc47dbf86f7741ee74e93b9"
         },
-        "69c2ecadb929e55024ff0ca3": {
-          "id": "69c2ecadb929e55024ff0ca3",
-          "type": "CounterCreator",
-          "value": 8,
-          "sourceId": "69c2ecadb929e55024ff0c9f"
-        },
         "5a27d34586f7744e1115b327": {
           "id": "5a27d34586f7744e1115b327",
           "type": "HandoverItem",
@@ -13148,7 +13142,7 @@
         "HideoutCounters": null,
         "Seed": "a3d140addd95fefef7ccbfa9c583eca6",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1775080530,
+        "sptUpdateLastRunTimestamp": 1775151746,
         "Customization": {
           "Wall": "675467bb5b7ebafefd0ebc2e",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -21259,44 +21253,7 @@
           "text": "You have received a gift from Passos",
           "hasRewards": true,
           "rewardCollected": false,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": [
-              {
-                "_id": "69c5935d70e9e35cac4f4e17",
-                "_tpl": "57d14d2524597714373db789",
-                "parentId": "5fe49444ae6628187a2e78b8",
-                "slotId": "main",
-                "location": {
-                  "x": 0,
-                  "y": 23,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "StackObjectsCount": 1,
-                  "SpawnedInSession": false
-                }
-              },
-              {
-                "_id": "69c5935d70e9e35cac4f4e18",
-                "_tpl": "57d1519e24597714373db79d",
-                "parentId": "69c5935d70e9e35cac4f4e17",
-                "slotId": "mod_magazine",
-                "upd": {
-                  "SpawnedInSession": false
-                }
-              },
-              {
-                "_id": "69c5935d70e9e35cac4f4e19",
-                "_tpl": "57d152ec245977144076ccdf",
-                "parentId": "69c5935d70e9e35cac4f4e17",
-                "slotId": "mod_pistol_grip",
-                "upd": {
-                  "SpawnedInSession": false
-                }
-              }
-            ]
-          },
+          "items": {},
           "maxStorageTime": 604800
         },
         {
@@ -21307,38 +21264,17 @@
           "text": "You have received a gift from Passos",
           "hasRewards": true,
           "rewardCollected": false,
-          "items": {
-            "stash": "5fe49444ae6628187a2e78b8",
-            "data": [
-              {
-                "_id": "69c593e070e9e35cac4f6a15",
-                "_tpl": "5d4041f086f7743cac3f22a7",
-                "parentId": "5fe49444ae6628187a2e78b8",
-                "slotId": "main",
-                "location": {
-                  "x": 5,
-                  "y": 20,
-                  "r": "Horizontal"
-                },
-                "upd": {
-                  "SpawnedInSession": false,
-                  "Resource": {
-                    "Value": 0
-                  }
-                }
-              }
-            ]
-          },
+          "items": {},
           "maxStorageTime": 604800
         }
       ],
       "_id": "59e7125688a45068a6249071"
     },
     "5ac3b934156ae10c4430e83c": {
-      "attachmentsNew": 1,
+      "attachmentsNew": 0,
       "new": 0,
       "type": 2,
-      "pinned": false,
+      "pinned": true,
       "messages": [
         {
           "_id": "69c198e7fae7a80dfc62e73f",
@@ -22414,12 +22350,7 @@
   "btrDelivery": [],
   "traderPurchases": {
     "54cb57776803fa99248b456e": {},
-    "54cb50c76803fa8b248b4571": {
-      "686e34626c2a18ed6b0eac50": {
-        "count": 2,
-        "purchaseTimestamp": 1775074100
-      }
-    },
+    "54cb50c76803fa8b248b4571": {},
     "5a7c2eca46aef81a7ca2145d": {},
     "58330581ace78e27b8b10cee": {},
     "5935c25fb3acc3127c3d8cd9": {},
